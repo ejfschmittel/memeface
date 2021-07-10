@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memeface/static/css/main.5de507ec.chunk.css",
+    "main.css": "/memeface/static/css/main.a5cb5d8e.chunk.css",
     "main.js": "/memeface/static/js/main.4e19d467.chunk.js",
     "main.js.map": "/memeface/static/js/main.4e19d467.chunk.js.map",
     "runtime-main.js": "/memeface/static/js/runtime-main.c86f0bbf.js",
@@ -10,13 +10,13 @@
     "static/js/3.da2dbfc3.chunk.js": "/memeface/static/js/3.da2dbfc3.chunk.js",
     "static/js/3.da2dbfc3.chunk.js.map": "/memeface/static/js/3.da2dbfc3.chunk.js.map",
     "index.html": "/memeface/index.html",
-    "static/css/main.5de507ec.chunk.css.map": "/memeface/static/css/main.5de507ec.chunk.css.map",
+    "static/css/main.a5cb5d8e.chunk.css.map": "/memeface/static/css/main.a5cb5d8e.chunk.css.map",
     "static/js/2.a41502ab.chunk.js.LICENSE.txt": "/memeface/static/js/2.a41502ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c86f0bbf.js",
     "static/js/2.a41502ab.chunk.js",
-    "static/css/main.5de507ec.chunk.css",
+    "static/css/main.a5cb5d8e.chunk.css",
     "static/js/main.4e19d467.chunk.js"
   ]
 }
