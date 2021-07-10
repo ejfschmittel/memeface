@@ -20,7 +20,7 @@ const ImageSelector = ({onChange}) => {
             <div>
                 Click to select images
             </div>
-            <input type="file" name="images" multiple onChange={preOnChange} ref={fileInputRef}/>
+            <input type="file" accept="image/*"  name="images" multiple onChange={preOnChange} ref={fileInputRef}/>
         </label>
     )
 }
