@@ -4,6 +4,10 @@
     &__display{
         width: 100%;
         display: flex;
+
+        @media only screen and (max-width: 600px) {
+            display: block;
+         }
     }
 
     &__display-container{
@@ -12,6 +16,10 @@
         width: 100%;
         margin: 1rem 0;
         border: 1px solid #fff;
+
+        @media only screen and (max-width: 600px) {
+            height: 200px;
+         }
     }
 
     &__download-btn{
@@ -47,6 +55,11 @@
         display: grid;
         grid-template-columns: repeat( auto-fit, minmax(10rem, 10rem));;
         gap: 1rem;
+
+
+        @media only screen and (max-width: 600px) {
+            grid-template-columns: repeat( auto-fit, minmax(4rem, 6rem));;
+        }
     }
 
 
